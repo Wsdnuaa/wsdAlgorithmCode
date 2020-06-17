@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wsdindemind/Documents/C++/WSDC++/findTemplate/Sort.cc
+Sort.h
+/home/wsdindemind/Documents/C++/WSDC++/findTemplate/Sort.h
+
+/home/wsdindemind/Documents/C++/WSDC++/findTemplate/Sort.h
+iostream
+-
+algorithm
+-
+

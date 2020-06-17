@@ -1,0 +1,3 @@
+/home/wsdindemind/Documents/C++/WSDC++/findTemplate/build/CMakeFiles/edit_cache.dir
+/home/wsdindemind/Documents/C++/WSDC++/findTemplate/build/CMakeFiles/rebuild_cache.dir
+/home/wsdindemind/Documents/C++/WSDC++/findTemplate/build/CMakeFiles/wsdCpp.dir

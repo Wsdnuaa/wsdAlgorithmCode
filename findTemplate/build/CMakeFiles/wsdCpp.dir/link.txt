@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/wsdCpp.dir/Sort.cc.o  -o wsdCpp -rdynamic 
